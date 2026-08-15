@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://notes-fcxyyh.cingbet138.site/sitemap.xml
